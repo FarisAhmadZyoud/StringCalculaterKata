@@ -12,7 +12,7 @@ namespace TestingOfAddMethod
         {
 
 
-            char[] delimiterChars = { ';', ',', '.', ':', '\t' };
+            char[] delimiterChars = { ';', ',', '.', ':', '\t' ,' '};
 
             if (Numbers == "")
             {
